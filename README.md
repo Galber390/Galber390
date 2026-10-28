@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,100:1d4ed8&height=170&section=header&text=Galber&fontSize=52&fontColor=dbeafe&fontAlignY=40&desc=Software%20Engineering%20Student&descSize=18&descColor=93c5fd&descAlignY=62" alt="Galber banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,100:1d4ed8&height=170&section=header&text=Galber&fontSize=52&fontColor=dbeafe&fontAlignY=40&desc=Software%20Engineering%20Student&descSize=18&descColor=93c5fd&descAlignY=62" alt="Gabriel Alejandro banner" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-alejandro-ramirez-leon-54a370396"><img src="https://img.shields.io/badge/LINKEDIN-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
